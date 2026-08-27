@@ -1,0 +1,14 @@
+{
+  "version": "1.0.529",
+  "versionCode": 529,
+  "releaseDate": "2026-08-27",
+  "changelog": "⚡ REDECANAIS TV v1.0.529 (ANTI-IP-BLOCK & CLOUDFLARE OPTIMIZATION):\n• Persistência em disco dos cookies de autenticação do Cloudflare (cf_clearance)\n• Otimização do intervalo de logs automáticos de 30s para 120s evitando sobrecarga de IP\n• Cache de assets estáticos e cabeçalhos HTTP de navegação segura ativados por padrão",
+  "apkFileName": "redecanais-tv-release-arm64.apk",
+  "minVersion": "1.0.0",
+  "downloadUrl": "http://192.168.18.181:8080/redecanais-tv-release-arm64.apk",
+  "download_url": "http://192.168.18.181:8080/redecanais-tv-release-arm64.apk",
+  "download_url_arm32": "http://192.168.18.181:8080/redecanais-tv-release-arm32.apk",
+  "version_code": 529,
+  "version_name": "1.0.529",
+  "mandatory": false
+}
