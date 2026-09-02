@@ -1,0 +1,107 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 19:24:16 GMT-03:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 86
+==========================================
+
+[19:21:13.480][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[19:21:13.481][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[19:21:13.640][I][AppUpdater] Checking for updates via local PC server...
+[19:21:13.647][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[19:21:13.752][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[19:21:13.755][I][AppUpdater] Remote Version: 1.0.549 (Code: 549) vs Current: 549
+[19:21:16.491][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:21:16.508][I][AppLogger] Local log upload HTTP response: 200
+[19:21:16.567][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 11 of https://redecanais.af/
+[19:21:22.087][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:22.138][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:22.145][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:26.483][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:21:26.499][I][AppLogger] Local log upload HTTP response: 200
+[19:21:36.484][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:21:36.500][I][AppLogger] Local log upload HTTP response: 200
+[19:21:37.163][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:21:37.602][E][WebConsole] [LOG] Error -- Line 1 of https://acscdn.com/script/aclib.js
+[19:21:40.796][I][MainActivity] Mocking 200 OK for Ad Network Request: https://dexpredict.com/jump/next.php?r=10980934
+[19:21:41.203][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:21:41.218][I][MainActivity] Mocking 200 OK for Ad Network Request: https://dexpredict.com/favicon.ico
+[19:21:46.485][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:21:46.502][I][AppLogger] Local log upload HTTP response: 200
+[19:21:48.844][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:48.868][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:48.872][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:21:56.485][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:21:56.502][I][AppLogger] Local log upload HTTP response: 200
+[19:22:01.742][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:22:03.970][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:06.202][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:06.285][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:06.312][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:06.315][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:06.488][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:06.561][I][AppLogger] Local log upload HTTP response: 200
+[19:22:08.997][E][WebConsole] [ERROR] Uncaught TypeError: e.indexOf is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:09.183][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[19:22:11.489][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).live is not a function TypeError: $(...).live is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:63:17)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:12.165][E][WebConsole] [ERROR] Uncaught TypeError: $(...).live is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:12.647][E][WebConsole] [LOG] Error -- Line 1 of https://acscdn.com/script/aclib.js
+[19:22:12.981][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:22:16.485][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:16.517][I][AppLogger] Local log upload HTTP response: 200
+[19:22:17.237][I][MainActivity] Mocking 200 OK for Ad Network Request: https://dexpredict.com/jump/next.php?r=10980934
+[19:22:17.497][I][MainActivity] Mocking 200 OK for Ad Network Request: https://dexpredict.com/favicon.ico
+[19:22:17.499][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:22:26.489][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:26.533][I][AppLogger] Local log upload HTTP response: 200
+[19:22:26.931][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:28.006][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:28.059][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:28.115][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:28.116][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:22:31.534][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[19:22:32.779][E][WebConsole] [ERROR] Uncaught TypeError: e.indexOf is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:33.639][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).animsition is not a function TypeError: $(...).animsition is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html:52:54)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:33.661][E][WebConsole] [WARNING] jQuery.Deferred exception: $.cookie is not a function TypeError: $.cookie is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:2:13)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:33.716][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).live is not a function TypeError: $(...).live is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:63:17)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:34.107][E][WebConsole] [ERROR] Uncaught TypeError: $(...).animsition is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:34.113][E][WebConsole] [ERROR] Uncaught TypeError: $.cookie is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:34.183][E][WebConsole] [ERROR] Uncaught TypeError: $(...).live is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:22:34.206][I][MainActivity] ALL JS INJECTIONS AND AD BLOCKERS ARE CURRENTLY DISABLED FOR NATIVE SITE TEST.
+[19:22:36.497][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:36.539][I][AppLogger] Local log upload HTTP response: 200
+[19:22:46.486][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:46.539][I][AppLogger] Local log upload HTTP response: 200
+[19:22:54.990][E][WebConsole] [WARNING] WARNING: Too many active WebGL contexts. Oldest context will be lost. -- Line 1 of https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:22:56.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:22:56.518][I][AppLogger] Local log upload HTTP response: 200
+[19:23:00.161][E][WebConsole] [WARNING] WARNING: Too many active WebGL contexts. Oldest context will be lost. -- Line 1 of https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:23:03.507][E][WebConsole] [WARNING] WARNING: Too many active WebGL contexts. Oldest context will be lost. -- Line 1 of https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:23:06.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:06.535][I][AppLogger] Local log upload HTTP response: 200
+[19:23:16.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:16.533][I][AppLogger] Local log upload HTTP response: 200
+[19:23:26.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:26.515][I][AppLogger] Local log upload HTTP response: 200
+[19:23:36.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:36.514][I][AppLogger] Local log upload HTTP response: 200
+[19:23:46.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:46.524][I][AppLogger] Local log upload HTTP response: 200
+[19:23:56.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:23:56.523][I][AppLogger] Local log upload HTTP response: 200
+[19:24:06.487][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:24:06.514][I][AppLogger] Local log upload HTTP response: 200

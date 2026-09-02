@@ -1,0 +1,86 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 20:04:47 GMT-03:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 77
+==========================================
+
+[20:01:44.011][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[20:01:44.011][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[20:01:44.073][I][AppUpdater] Checking for updates via local PC server...
+[20:01:44.074][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[20:01:44.099][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[20:01:44.103][I][AppUpdater] Remote Version: 1.0.555 (Code: 555) vs Current: 555
+[20:01:47.022][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:01:47.315][I][AppLogger] Local log upload HTTP response: 200
+[20:01:52.618][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[20:01:52.692][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[20:01:52.693][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[20:01:56.302][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:01:57.014][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:01:57.037][I][AppLogger] Local log upload HTTP response: 200
+[20:01:57.856][I][MainActivity] Mocking 200 OK for Ad Network Request: https://sv.sleeklyyallaer.com/tXHE4t31wbZlpcC/145811
+[20:01:57.874][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:01:57.938][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:01:57.956][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:01:57.957][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:01:58.433][E][WebConsole] [ERROR] Uncaught SyntaxError: Unexpected token ':' -- Line 1 of https://sv.sleeklyyallaer.com/tXHE4t31wbZlpcC/145811
+[20:02:01.158][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[20:02:02.715][I][MainActivity] Mocking 200 OK for Ad Network Request: https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fshake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:02:03.100][E][WebConsole] [ERROR] Access to XMLHttpRequest at 'https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fshake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html' from origin 'https://redecanais.af' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. -- Line 0 of https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:05.124][I][MainActivity] Mocking 200 OK for Ad Network Request: https://acscdn.com/script/aclib.js
+[20:02:05.607][E][WebConsole] [ERROR] Uncaught TypeError: aclib.runPop is not a function -- Line 1 of https://redecanais.af/shake-rattle-roll-evil-origins-dublado-2026-1080p_77c0011b6.html
+[20:02:06.076][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[20:02:07.013][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:07.039][I][AppLogger] Local log upload HTTP response: 200
+[20:02:10.106][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:10.327][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:10.329][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:11.416][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[20:02:11.716][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[20:02:11.757][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[20:02:12.985][E][PlayerWebConsole] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
+[20:02:13.388][I][PlayerActivity] PlayerWebView blocked ad request: https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fplayer3%2Fserver.php%3Fcategoria%3Dvod%26server%3DRCFServer2%26subfolder%3Dondemand%26vid%3DSHKERTLEROLEVLORGNS
+[20:02:13.889][E][PlayerWebConsole] [ERROR] Access to XMLHttpRequest at 'https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fplayer3%2Fserver.php%3Fcategoria%3Dvod%26server%3DRCFServer2%26subfolder%3Dondemand%26vid%3DSHKERTLEROLEVLORGNS' from origin 'https://redecanais.af' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[20:02:17.016][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:17.037][I][AppLogger] Local log upload HTTP response: 200
+[20:02:26.781][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:26.898][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:26.898][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:27.049][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:27.149][I][AppLogger] Local log upload HTTP response: 200
+[20:02:27.569][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[20:02:27.791][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[20:02:27.823][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[20:02:28.775][E][PlayerWebConsole] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
+[20:02:28.889][I][PlayerActivity] PlayerWebView blocked ad request: https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fplayer3%2Fserver.php%3Fcategoria%3Dvod%26server%3DRCFServer2%26subfolder%3Dondemand%26vid%3DSHKERTLEROLEVLORGNS
+[20:02:28.987][E][PlayerWebConsole] [ERROR] Access to XMLHttpRequest at 'https://securepubads.g.doubleclick.net/pagead/ima_ppub_config?ippd=https%3A%2F%2Fredecanais.af%2Fplayer3%2Fserver.php%3Fcategoria%3Dvod%26server%3DRCFServer2%26subfolder%3Dondemand%26vid%3DSHKERTLEROLEVLORGNS' from origin 'https://redecanais.af' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[20:02:37.042][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:37.073][I][AppLogger] Local log upload HTTP response: 200
+[20:02:37.290][I][MainActivity] openInCustomTabs called for url: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=SHKERTLEROLEVLORGNS
+[20:02:47.052][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:47.136][I][AppLogger] Local log upload HTTP response: 200
+[20:02:57.085][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:02:57.111][I][AppLogger] Local log upload HTTP response: 200
+[20:03:07.122][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:07.159][I][AppLogger] Local log upload HTTP response: 200
+[20:03:17.125][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:17.156][I][AppLogger] Local log upload HTTP response: 200
+[20:03:27.124][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:27.148][I][AppLogger] Local log upload HTTP response: 200
+[20:03:37.124][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:37.156][I][AppLogger] Local log upload HTTP response: 200
+[20:03:47.124][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:47.149][I][AppLogger] Local log upload HTTP response: 200
+[20:03:57.125][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:03:57.154][I][AppLogger] Local log upload HTTP response: 200
+[20:04:07.125][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:04:07.210][I][AppLogger] Local log upload HTTP response: 200
+[20:04:17.125][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:04:17.169][I][AppLogger] Local log upload HTTP response: 200
+[20:04:27.126][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:04:27.151][I][AppLogger] Local log upload HTTP response: 200
+[20:04:37.126][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[20:04:37.430][I][AppLogger] Local log upload HTTP response: 200

@@ -1,0 +1,17 @@
+{
+  "version": "1.0.612",
+  "versionCode": 612,
+  "releaseDate": "2026-09-02",
+  "changelog": "📱 REDECANAIS TV v1.0.612 (CORREÇÃO DE SCROLL EM SMARTPHONES):
+• Isolamento completo das rotinas de fullscreen de TV (bindPlayerFullscreen / enterTvFullscreen) apenas para dispositivos TV (IS_TV)
+• Adicionadas regras CSS nativas de toque para smartphones (-webkit-overflow-scrolling: touch e touch-action: pan-y)
+• Habilitado overScrollMode e barra de rolagem vertical no WebView para resposta imediata aos gestos de toque em telefones",
+  "apkFileName": "redecanais-tv-release-arm64.apk",
+  "minVersion": "1.0.0",
+  "downloadUrl": "http://192.168.18.181:8080/redecanais-tv-release-arm64.apk",
+  "download_url": "http://192.168.18.181:8080/redecanais-tv-release-arm64.apk",
+  "download_url_arm32": "http://192.168.18.181:8080/redecanais-tv-release-arm32.apk",
+  "version_code": 612,
+  "version_name": "1.0.612",
+  "mandatory": false
+}

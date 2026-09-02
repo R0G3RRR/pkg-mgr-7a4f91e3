@@ -1,0 +1,112 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 19:52:15 GMT-03:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 97
+==========================================
+
+[19:49:52.232][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[19:49:52.233][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[19:49:52.302][I][AppUpdater] Checking for updates via local PC server...
+[19:49:52.306][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[19:49:52.343][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[19:49:52.344][I][AppUpdater] Remote Version: 1.0.552 (Code: 552) vs Current: 552
+[19:49:55.239][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:49:55.646][I][AppLogger] Local log upload HTTP response: 200
+[19:50:01.670][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:50:01.724][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:50:01.727][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[19:50:05.237][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:05.255][I][AppLogger] Local log upload HTTP response: 200
+[19:50:13.244][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:50:15.235][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:15.290][I][AppLogger] Local log upload HTTP response: 200
+[19:50:20.134][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:20.193][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:20.211][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:20.217][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:24.419][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[19:50:24.550][E][WebConsole] [ERROR] Uncaught TypeError: e.indexOf is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:50:25.236][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:25.638][I][AppLogger] Local log upload HTTP response: 200
+[19:50:28.599][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).live is not a function TypeError: $(...).live is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:63:17)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:50:28.672][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:50:32.584][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:50:35.237][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:40.688][I][AppLogger] Local log upload HTTP response: 200
+[19:50:43.755][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:45.239][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:45.251][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:45.276][I][AppLogger] Local log upload HTTP response: 200
+[19:50:45.319][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:45.355][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:45.358][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:50:48.956][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[19:50:50.381][E][WebConsole] [ERROR] Uncaught TypeError: e.indexOf is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:50:51.465][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).live is not a function TypeError: $(...).live is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:63:17)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:50:52.398][E][WebConsole] [ERROR] Uncaught TypeError: $(...).live is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[19:50:53.122][I][MainActivity] Blocked WebView redirect to ad: https://dexpredict.com/jump/next.php?r=10980934
+[19:50:53.149][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:50:55.238][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:50:55.280][I][AppLogger] Local log upload HTTP response: 200
+[19:50:57.982][E][WebConsole] [ERROR] Uncaught TypeError: ma is not a function -- Line 2 of https://sv.sleeklyyallaer.com/tXHE4t31wbZlpcC/145811
+[19:51:05.240][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:05.276][I][AppLogger] Local log upload HTTP response: 200
+[19:51:08.125][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:51:08.348][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:51:08.349][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[19:51:09.093][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[19:51:09.565][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[19:51:09.598][E][PlayerWebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://imasdk.googleapis.com/js/sdkloader/ima3.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.
+[19:51:10.600][E][PlayerWebConsole] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
+[19:51:11.098][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:51:12.025][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:51:14.954][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/cdn-cgi/image/width=840,fit=scale-down,format=auto,quality=75,sharpen=0.5/https%3A%2F%2Fspeedcdn.tech%2Fassets%2Fprod%2Fbanners%2Fbrand%3Dborawin.vip%2Fpromotion%3Dnew-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in%2Fpromo_banner.webp
+[19:51:15.174][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=new-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in/promo_banner.webp
+[19:51:15.241][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:15.281][I][AppLogger] Local log upload HTTP response: 200
+[19:51:15.301][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=new-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in/promo_banner.webp
+[19:51:23.037][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:51:23.058][E][WebConsole] [WARNING] [Smartico] Push token missing from window -- Line 6 of https://www.borawin5.vip/static/sha-efab1ad/_next/static/chunks/1zor6yk6pioo_.js
+[19:51:23.095][E][WebConsole] [WARNING] [useClarity] NEXT_PUBLIC_CLARITY_ID is not defined; skipping initialization. -- Line 6 of https://www.borawin5.vip/static/sha-efab1ad/_next/static/chunks/1zor6yk6pioo_.js
+[19:51:24.671][E][WebConsole] [TIP] [object HTMLImageElement] -- Line 6 of https://www.borawin5.vip/static/sha-efab1ad/_next/static/chunks/1zor6yk6pioo_.js
+[19:51:24.672][E][WebConsole] [LOG] console.groupEnd -- Line 13 of https://veri.fgservice.io/bundle.js
+[19:51:25.125][E][WebConsole] [LOG] Error: probe -- Line 13 of https://veri.fgservice.io/bundle.js
+[19:51:25.126][E][WebConsole] [LOG] Error: probe -- Line 13 of https://veri.fgservice.io/bundle.js
+[19:51:25.193][E][WebConsole] [WARNING] No available adapters. -- Line 0 of https://www.borawin5.vip/?trackerId=da8bup5cnc0c73c95c50&affiliateId=5421&t2=923698&t3=BR&t4=pt-br,pt,en-us,en&t5=1.149990&t6=1264365&t7=Mainstream&t8=&t9=&t10=meta&t11=&t12=&t13=&auth=register&ihub_hash=Gw6QBmGASTuvVirNpXyZ&ot=true&externalid={token}
+[19:51:25.194][E][WebConsole] [WARNING] No available adapters. -- Line 0 of https://www.borawin5.vip/?trackerId=da8bup5cnc0c73c95c50&affiliateId=5421&t2=923698&t3=BR&t4=pt-br,pt,en-us,en&t5=1.149990&t6=1264365&t7=Mainstream&t8=&t9=&t10=meta&t11=&t12=&t13=&auth=register&ihub_hash=Gw6QBmGASTuvVirNpXyZ&ot=true&externalid={token}
+[19:51:25.241][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:25.305][I][AppLogger] Local log upload HTTP response: 200
+[19:51:25.524][E][WebConsole] [WARNING] No available adapters. -- Line 0 of https://www.borawin5.vip/?trackerId=da8bup5cnc0c73c95c50&affiliateId=5421&t2=923698&t3=BR&t4=pt-br,pt,en-us,en&t5=1.149990&t6=1264365&t7=Mainstream&t8=&t9=&t10=meta&t11=&t12=&t13=&auth=register&ihub_hash=Gw6QBmGASTuvVirNpXyZ&ot=true&externalid={token}
+[19:51:35.241][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:35.281][I][AppLogger] Local log upload HTTP response: 200
+[19:51:42.932][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/cdn-cgi/image/width=840,fit=scale-down,format=auto,quality=75,sharpen=0.5/https%3A%2F%2Fspeedcdn.tech%2Fassets%2Fprod%2Fbanners%2Fbrand%3Dborawin.vip%2Fpromotion%3Dbwn-sport-welcome-offer-100-up-to-r-1-500%2Fpromo_banner.webp
+[19:51:43.714][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=bwn-sport-welcome-offer-100-up-to-r-1-500/promo_banner.webp
+[19:51:43.756][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=bwn-sport-welcome-offer-100-up-to-r-1-500/promo_banner.webp
+[19:51:45.084][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/cdn-cgi/image/width=840,fit=scale-down,format=auto,quality=75,sharpen=0.5/https%3A%2F%2Fspeedcdn.tech%2Fassets%2Fprod%2Fbanners%2Fbrand%3Dborawin.vip%2Fpromotion%3Dnew-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in%2Fpromo_banner.webp
+[19:51:45.125][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=new-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in/promo_banner.webp
+[19:51:45.147][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/assets/prod/banners/brand=borawin.vip/promotion=new-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in/promo_banner.webp
+[19:51:45.241][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:45.306][I][AppLogger] Local log upload HTTP response: 200
+[19:51:48.677][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:51:50.200][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:51:50.249][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:51:50.273][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:51:50.277][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[19:51:54.278][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[19:51:55.245][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:51:55.292][I][AppLogger] Local log upload HTTP response: 200
+[19:52:02.953][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:52:04.019][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[19:52:05.243][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[19:52:11.332][E][AppLogger] Local log upload failed: timeout
+[19:52:11.343][I][AppLogger] Saved log fallback file: /storage/emulated/0/Android/data/com.redecanais.tv/files/Download/redecanais_full_log.txt
+[19:52:15.273][I][MainActivity] Mocking 200 OK for Ad Network Request: https://speedcdn.tech/cdn-cgi/image/width=840,fit=scale-down,format=auto,quality=75,sharpen=0.5/https%3A%2F%2Fspeedcdn.tech%2Fassets%2Fprod%2Fbanners%2Fbrand%3Dborawin.vip%2Fpromotion%3Dnew-ui-bwn-welcome-offer-2-r-1-500-no-sports-logged-in%2Fpromo_banner.webp

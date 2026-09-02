@@ -1,0 +1,109 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 21:46:23 GMT-03:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 97
+==========================================
+
+[21:42:30.501][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[21:42:30.501][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[21:42:30.558][I][AppUpdater] Checking for updates via local PC server...
+[21:42:30.559][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[21:42:30.586][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[21:42:30.591][I][AppUpdater] Remote Version: 1.0.568 (Code: 568) vs Current: 568
+[21:42:32.630][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 11 of https://redecanais.af/
+[21:42:33.508][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:42:33.546][I][AppLogger] Local log upload HTTP response: 200
+[21:42:37.294][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:42:37.358][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:42:37.361][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:42:43.504][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:42:43.529][I][AppLogger] Local log upload HTTP response: 200
+[21:42:49.838][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[21:42:49.986][I][MainActivity] Mocking 200 OK for Ad Network Request: https://acscdn.com/script/aclib.js
+[21:42:53.505][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:42:53.519][I][AppLogger] Local log upload HTTP response: 200
+[21:43:03.505][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:03.523][I][AppLogger] Local log upload HTTP response: 200
+[21:43:13.506][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:13.520][I][AppLogger] Local log upload HTTP response: 200
+[21:43:13.723][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:43:13.781][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:43:13.784][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 14 of https://redecanais.af/
+[21:43:23.507][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:23.527][I][AppLogger] Local log upload HTTP response: 200
+[21:43:26.180][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[21:43:33.507][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:33.523][I][AppLogger] Local log upload HTTP response: 200
+[21:43:39.231][E][WebConsole] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'indexOf') -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[21:43:40.939][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 17 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[21:43:42.728][I][MainActivity] Mocking 200 OK for Ad Network Request: https://sv.sleeklyyallaer.com/tXHE4t31wbZlpcC/145811
+[21:43:42.744][E][WebConsole] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[21:43:42.791][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[21:43:42.810][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[21:43:42.818][E][WebConsole] [WARNING] A parser-blocking, cross site (i.e. different eTLD+1) script, https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. -- Line 20 of https://redecanais.af/apreensao-dublado-2026-1080p_73541b598.html
+[21:43:43.509][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:43.640][I][AppLogger] Local log upload HTTP response: 200
+[21:43:44.389][E][WebConsole] [ERROR] Uncaught SyntaxError: Unexpected token ':' -- Line 1 of https://sv.sleeklyyallaer.com/tXHE4t31wbZlpcC/145811
+[21:43:45.366][E][WebConsole] [ERROR] Uncaught Error: invalid version specified -- Line 96 of https://connect.facebook.net/en_US/bundle/sdk.js/
+[21:43:45.387][E][WebConsole] [ERROR] Uncaught TypeError: e.indexOf is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[21:43:45.676][E][WebConsole] [WARNING] jQuery.Deferred exception: $(...).tooltip is not a function TypeError: $(...).tooltip is not a function
+    at HTMLDocument.<anonymous> (https://redecanais.af/templates/echo/js/melody.dev.js:94:21)
+    at e (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30005)
+    at t (https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js:2:30307) undefined -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[21:43:46.164][E][WebConsole] [ERROR] Uncaught TypeError: $(...).tooltip is not a function -- Line 2 of https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+[21:43:47.146][I][MainActivity] Mocking 200 OK for Ad Network Request: https://acscdn.com/script/aclib.js
+[21:43:48.410][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[21:43:51.977][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:43:52.185][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:43:53.331][I][PlayerActivity] Using fallback deterministic HLS URL in Java: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:43:53.332][I][PlayerActivity] Initializing ExoPlayer for URL: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:43:53.511][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:43:53.535][I][AppLogger] Local log upload HTTP response: 200
+[21:43:56.451][E][PlayerActivity] ExoPlayer error: Source error (ErrorCode: 2001) -> Fallback to WebView player!
+[21:43:56.452][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:43:56.566][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[21:44:03.511][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:03.529][I][AppLogger] Local log upload HTTP response: 200
+[21:44:07.209][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:44:07.344][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:44:08.111][I][PlayerActivity] Using fallback deterministic HLS URL in Java: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:08.111][I][PlayerActivity] Initializing ExoPlayer for URL: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:11.156][E][PlayerActivity] ExoPlayer error: Source error (ErrorCode: 2001) -> Fallback to WebView player!
+[21:44:11.157][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:11.245][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[21:44:13.511][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:13.534][I][AppLogger] Local log upload HTTP response: 200
+[21:44:14.460][I][MainActivity] extractAndPlayNative called for targetUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:44:14.579][I][PlayerActivity] PlayerActivity opened with streamUrl: https://redecanais.af/player3/server.php?categoria=vod&server=RCFServer2&subfolder=ondemand&vid=APRNSAO
+[21:44:16.885][I][PlayerActivity] Using fallback deterministic HLS URL in Java: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:16.885][I][PlayerActivity] Initializing ExoPlayer for URL: https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:19.933][E][PlayerActivity] ExoPlayer error: Source error (ErrorCode: 2001) -> Fallback to WebView player!
+[21:44:19.934][I][PlayerActivity] Loading URL in player WebView (Chromium Engine): https://rcfserver2.redecanais.af/hls/APRNSAO/index.m3u8
+[21:44:20.029][I][PlayerActivity] Executing single Player JS injection with Mobile Chrome UA & jQuery polyfills...
+[21:44:23.511][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:23.549][I][AppLogger] Local log upload HTTP response: 200
+[21:44:33.511][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:33.548][I][AppLogger] Local log upload HTTP response: 200
+[21:44:43.512][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:43.542][I][AppLogger] Local log upload HTTP response: 200
+[21:44:53.512][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:44:53.536][I][AppLogger] Local log upload HTTP response: 200
+[21:45:03.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:03.553][I][AppLogger] Local log upload HTTP response: 200
+[21:45:13.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:13.534][I][AppLogger] Local log upload HTTP response: 200
+[21:45:23.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:23.537][I][AppLogger] Local log upload HTTP response: 200
+[21:45:33.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:33.541][I][AppLogger] Local log upload HTTP response: 200
+[21:45:43.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:43.542][I][AppLogger] Local log upload HTTP response: 200
+[21:45:53.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:45:53.553][I][AppLogger] Local log upload HTTP response: 200
+[21:46:03.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:46:03.537][I][AppLogger] Local log upload HTTP response: 200
+[21:46:13.513][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[21:46:13.538][I][AppLogger] Local log upload HTTP response: 200

@@ -1,0 +1,38 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 23:35:10 GMT+00:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 29
+==========================================
+
+[23:33:27.433][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[23:33:27.434][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[23:33:27.501][I][AppUpdater] Checking for updates via local PC server...
+[23:33:27.501][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[23:33:27.545][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[23:33:27.556][I][AppUpdater] Remote Version: 1.0.561 (Code: 561) vs Current: 561
+[23:33:30.451][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:33:30.465][I][AppLogger] Local log upload HTTP response: 200
+[23:33:35.270][I][MainActivity] Mocking 200 OK for Ad Network Request: https://acscdn.com/script/aclib.js
+[23:33:35.334][E][WebConsole] [ERROR] Uncaught TypeError: $(...).scrollToFixed is not a function -- Line 14 of https://redecanais.af/templates/echo/js/melody.dev.js
+[23:33:35.545][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[23:33:40.438][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:33:40.452][I][AppLogger] Local log upload HTTP response: 200
+[23:33:50.438][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:33:50.450][I][AppLogger] Local log upload HTTP response: 200
+[23:34:00.439][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:00.454][I][AppLogger] Local log upload HTTP response: 200
+[23:34:10.440][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:10.477][I][AppLogger] Local log upload HTTP response: 200
+[23:34:20.441][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:20.459][I][AppLogger] Local log upload HTTP response: 200
+[23:34:30.442][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:30.458][I][AppLogger] Local log upload HTTP response: 200
+[23:34:40.443][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:40.460][I][AppLogger] Local log upload HTTP response: 200
+[23:34:50.443][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:34:50.593][I][AppLogger] Local log upload HTTP response: 200
+[23:35:00.444][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:35:00.797][I][AppLogger] Local log upload HTTP response: 200

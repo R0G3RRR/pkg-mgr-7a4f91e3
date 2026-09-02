@@ -1,0 +1,42 @@
+=== REDECANAIS TV FULL DIAGNOSTIC LOGS ===
+Last Updated: Thu Aug 27 23:31:21 GMT+00:00 2026
+Device Model: TCL Smart TV Pro
+Android SDK: 30 (Release: 11)
+Supported ABIs: armeabi-v7a armeabi 
+Active Domain: https://redecanais.af/
+Total Log Lines: 33
+==========================================
+
+[23:29:28.924][I][AppLogger] === NEW APP SESSION STARTED - LOGS CLEARED ===
+[23:29:28.924][I][AppLogger] Starting Automatic Local Log Sync to PC (Every 10 seconds)...
+[23:29:29.031][I][AppUpdater] Checking for updates via local PC server...
+[23:29:29.032][I][AppUpdater] Connecting to local server: http://192.168.18.181:8080/version.json
+[23:29:29.075][I][AppUpdater] ✅ Connected to Local High-Speed Server!
+[23:29:29.078][I][AppUpdater] Remote Version: 1.0.560 (Code: 560) vs Current: 560
+[23:29:31.938][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:29:31.955][I][AppLogger] Local log upload HTTP response: 200
+[23:29:36.142][I][MainActivity] Mocking 200 OK for Ad Network Request: https://acscdn.com/script/aclib.js
+[23:29:36.191][E][WebConsole] [ERROR] Uncaught TypeError: aclib.runPop is not a function -- Line 1 of https://redecanais.af/
+[23:29:36.368][E][WebConsole] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'top') -- Line 27 of https://redecanais.af/templates/echo/js/melody.dev.js
+[23:29:36.398][I][MainActivity] Executing stealth CSS & AdBlocker injection for current page...
+[23:29:37.246][E][WebConsole] [LOG] Stealth Ad Interceptor: Mocked window.open ->  https://dexpredict.com/jump/next.php?r=10980934 -- Line 1 of 
+[23:29:41.927][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:29:41.938][I][AppLogger] Local log upload HTTP response: 200
+[23:29:51.929][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:29:51.945][I][AppLogger] Local log upload HTTP response: 200
+[23:30:01.929][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:01.941][I][AppLogger] Local log upload HTTP response: 200
+[23:30:11.930][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:11.946][I][AppLogger] Local log upload HTTP response: 200
+[23:30:21.931][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:22.017][I][AppLogger] Local log upload HTTP response: 200
+[23:30:31.931][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:31.947][I][AppLogger] Local log upload HTTP response: 200
+[23:30:41.931][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:41.948][I][AppLogger] Local log upload HTTP response: 200
+[23:30:51.932][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:30:51.965][I][AppLogger] Local log upload HTTP response: 200
+[23:31:01.932][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:31:01.951][I][AppLogger] Local log upload HTTP response: 200
+[23:31:11.934][I][AppLogger] Syncing full logs to local PC server: http://192.168.18.181:8080/log
+[23:31:11.964][I][AppLogger] Local log upload HTTP response: 200
